@@ -1,0 +1,10 @@
+{
+  "common": {
+    "split": "Split"
+  },
+  "office": {
+    "excel": "Excel",
+    "powerpoint": "Powerpoint",
+    "word": "Word"
+  }
+}
